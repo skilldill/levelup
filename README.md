@@ -13,7 +13,8 @@ P.S. GIT PULL ДЕЛАЕТСЯ ИЗ ТОЙ ВЕТКИ В КОТОРУЮ ХОТИ
 
 1. git add [filename]
 2. git commit -m "message example"
-3. git pull
+ ...
+3. git pull (из той ветки в которую хотим слить текущую ветку)
 4. git push
 
 # СОЗДАНИЕ / ПЕРЕКЛЮЧЕНИЕ ВЕТКИ
